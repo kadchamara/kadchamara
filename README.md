@@ -1,25 +1,28 @@
 ![Wed Designer and Developer](https://pbs.twimg.com/media/FcRxe3AXkAEKYes?format=jpg&name=medium)
 
 # Chamara Jayasanka
-I'm Chamara from Sri Lanka, and I do web Design and Development. I currently reading a Degree at NIBM University. I really enjoy learning languages and frameworks like React and React Native, as well as working in WordPress. I also enjoy UI, UX and Design in general. I'm also a die-hard fan of EMINEM and I also prefer Stock/Crypto market Analysis and Trading.
+I'm Chamara from Sri Lanka, and I do web Design and Development. I currently reading a Degree at NIBM University. I enjoy learning languages and frameworks like React and React Native, as well as working in WordPress. I also enjoy UI, UX and Design in general. I'm also a die-hard fan of EMINEM and I also prefer Stock/Crypto market Analysis and Trading.
 
 ## Skills
-🧑🏽‍💻 HTML/ CSS/ JS/ PHP
-✍🏽 Content Writing 
-🌐 Off-Page & On-Page SEO
-📱 Digitel Marketing
 
-   
+<ul>
+  <li>🧑🏽‍💻 HTML/ CSS/ JS/ PHP</li>
+  <li>✍🏽 Content Writing</li>
+  <li>🌐 Off-Page & On-Page SEO</li>
+  <li>📱 Digitel Marketing</li>
+</ul>
+
 
 ## Experience
+<ul>
+  <li>WordPress & Shopify Developer In Fiverr.</li>
+  <li>Worked freelancer as a Content Writer</li>
+  <li>Prior knowledge of google AdSense, link building, and blogging.</li>
+  <li>Founder & Digitel Marketer at <a href="https://www.facebook.com/blisspickslk">Bliss Picks</a> / <a href="https://www.facebook.com/customaquariumslk">Custom Aquariums Lanka</a> / <a href="https://www.facebook.com/Stromtechlk">Strom Tech</a> </li>
+</ul>
 
 
 
-
-- 🔭 I’m currently working on My own business 
-- 🌱 I’m currently learning React 
-- 👯 I’m looking to collaborate on We design and Development 
-- 📫 How to reach me: LinkedIn 
 
 ![Profile views](https://gpvc.arturio.dev/kadchamara)  
 
